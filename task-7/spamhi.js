@@ -5,3 +5,5 @@ function spamhi()
     textbox.innerHTML="Hi";
     sendbtn.click();
 }
+
+setInterval(spamhi,2000);

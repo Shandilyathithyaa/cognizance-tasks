@@ -4,5 +4,5 @@ is interesting and a fun xp. So kudos :)
 For the next 6 months I'm thinking of trying different things, basics of different domains and I wish to learn few things that I have planned to and start putting it to use 
 through various events.
 
-I can manage the club and help in conducting tasks or things that are done currently by the seniors of mine who are managing the club and help my peers or juniors in future or maybe 
+I can manage the club and help in conducting tasks or things that are done currently by my seniors who are managing the club and help my peers or juniors in future or maybe 
 even seniors.

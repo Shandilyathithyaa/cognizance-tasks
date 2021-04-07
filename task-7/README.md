@@ -1,2 +1,1 @@
-Just had the code in yt but for some other platform. But the lines which is currently commented in the code didn't work. Logical though it seemed correct. After few days instead
-of using the function click() I saw 'mousedown' which performed similar function and then the code worked alright.
+Just had the code in yt but for some other platform. But the lines which is currently commented in the code didn't work. Logical though it seemed correct. After few days I found a replacement for click(); trigger('mousedown') which performed similar function. Then the code worked alright.

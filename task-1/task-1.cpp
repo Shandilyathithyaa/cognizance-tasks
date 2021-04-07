@@ -7,6 +7,7 @@ int main() {
 	{
 		s+=x/i;
 		x%=i;	
+		i--;
 	}
 	std::cout<<s;
 	return 0;

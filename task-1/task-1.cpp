@@ -1,9 +1,9 @@
 #include<iostream>
 
 int main() {
-	int s=0,x;
+	int s=0,x,i=5;
 	std::cin>>x;
-	for(int i=5;i>0;i--)
+	while(x%i!=0)
 	{
 		s+=x/i;
 		x%=i;	
